@@ -3,9 +3,9 @@
 # Bài kiểm tra giữa kỳ - Bài 1
 - **Môn học:** Phát triển ứng dụng di động đa nền tảng 1
 - **Giảng viên:** GVC.TS. Trần Trung Chuyên
-- **Sinh viên:** 
-- **Mã sinh viên:** 
-- **Lớp:**
+- **Sinh viên:** Bùi Văn Duy
+- **Mã sinh viên:** 2121050270
+- **Lớp:** DCCTCLC66A1
 - **Đề tài:** Xây dựng và kiểm thử ứng dụng Quản lý sự kiện
 
 Chào mừng bạn đến với dự án Quản lý sự kiện! Tệp README này sẽ hướng dẫn bạn hoàn thành bài tập.
@@ -53,7 +53,7 @@ Sau khi clone repository, mở thư mục dự án trong Visual Studio Code và 
    ```
 
 Phát triển ứng dụng của bạn bắt đầu bằng cách xem clip hướng dẫn sau:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_qlCQVKW2jQ?si=tHhBuqRnOGaWR7xB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_qlCQVKW2jQ?si=MZAPDBN_qVz-aeW1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Chạy kiểm thử
 
